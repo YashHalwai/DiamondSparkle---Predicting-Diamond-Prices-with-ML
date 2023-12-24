@@ -1,4 +1,5 @@
 import sys
+sys.path.append("D:/FullStackDataScience/04_MachineLearning_Projects/DiamondPricePrediction/src")
 from src.logger import logging
 
 def error_message_detail(error,error_detail:sys):
